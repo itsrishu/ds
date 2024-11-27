@@ -1,4 +1,4 @@
-const LinkedList = require('./LinkedList')
+const LinkedList = require('../LinkedList/LinkedList')
 
 // Brute-force
 function middleOfLinkedList(head) {
